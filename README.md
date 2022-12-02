@@ -7,7 +7,7 @@
 - Vicente Javier Viera Guízar A01639784
 
 ### Description:
-3D simulation of a traffic intersection with cars and traffic lights, powered by an Agent-Based Model (agentpy) that simulates the behavior of the cars and the traffic lights in the intersection. The simulation is made in Unity, using C#. The simulation has a GUI that allows the user to change camera views and the simulation allows the user to click on the cars to see their perspective in a first person view with a camera attached to the car.
+3D simulation of a traffic intersection with cars and traffic lights, powered by an Agent-Based Model (Agentpy) that simulates the behavior of the cars and the traffic lights in the intersection. The simulation is made in Unity, using C#. The simulation has a GUI that allows the user to change camera views and the simulation allows the user to click on the cars to see their perspective in a first person view with a camera attached to the car.
 
 ### How to run
 1. Download the project
