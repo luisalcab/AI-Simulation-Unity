@@ -6,6 +6,9 @@
 - Renet de Jesús Pérez Gómez A01640555
 - Vicente Javier Viera Guízar A01639784
 
+### Description:
+3D simulation of a traffic intersection with cars and traffic lights, powered by Agent-Based Modeling (agentpy).
+
 ### How to run
 1. Download the project
 2. Open the project in [Unity](https://unity3d.com/get-unity/download)
