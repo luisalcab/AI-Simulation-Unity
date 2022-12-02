@@ -63,8 +63,8 @@ public class RequestManager : MonoBehaviour
                     listaCarro.step[i].trafficLights[j].state = json[1][j][i][0].AsInt;
                 }
             }
-        }
 
-        _requestPositions?.Invoke(listaCarro);
+            _requestPositions?.Invoke(listaCarro);
+        }
     }
 }

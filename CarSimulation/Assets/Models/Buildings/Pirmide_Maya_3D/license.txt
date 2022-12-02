@@ -1,0 +1,11 @@
+Model Information:
+* title:	Pirámide Maya 3D
+* source:	https://sketchfab.com/3d-models/piramide-maya-3d-850f3439316d4cde9861d97fbff807aa
+* author:	CG BANG! (https://sketchfab.com/CGbang)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Pirámide Maya 3D" (https://sketchfab.com/3d-models/piramide-maya-3d-850f3439316d4cde9861d97fbff807aa) by CG BANG! (https://sketchfab.com/CGbang) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
