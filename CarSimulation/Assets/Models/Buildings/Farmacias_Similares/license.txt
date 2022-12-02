@@ -1,0 +1,11 @@
+Model Information:
+* title:	Farmacias Similares
+* source:	https://sketchfab.com/3d-models/farmacias-similares-4d9800cb31d94b37b6e9ba33226a4fce
+* author:	daftvid (https://sketchfab.com/daftvid)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Farmacias Similares" (https://sketchfab.com/3d-models/farmacias-similares-4d9800cb31d94b37b6e9ba33226a4fce) by daftvid (https://sketchfab.com/daftvid) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

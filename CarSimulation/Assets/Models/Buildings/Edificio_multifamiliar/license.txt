@@ -1,0 +1,11 @@
+Model Information:
+* title:	Edificio multifamiliar
+* source:	https://sketchfab.com/3d-models/edificio-multifamiliar-afff4fd9e05549f6b1d5668b9eb36af7
+* author:	alecsvaldez (https://sketchfab.com/alexvzzz)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Edificio multifamiliar" (https://sketchfab.com/3d-models/edificio-multifamiliar-afff4fd9e05549f6b1d5668b9eb36af7) by alecsvaldez (https://sketchfab.com/alexvzzz) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

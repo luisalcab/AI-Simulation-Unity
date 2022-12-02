@@ -1,0 +1,11 @@
+Model Information:
+* title:	Bus Stop Sign - Low Poly
+* source:	https://sketchfab.com/3d-models/bus-stop-sign-low-poly-0ab0a371dec846e9aead9fcc1d4fb785
+* author:	ENOMIC (https://sketchfab.com/ENOMIC)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Bus Stop Sign - Low Poly" (https://sketchfab.com/3d-models/bus-stop-sign-low-poly-0ab0a371dec846e9aead9fcc1d4fb785) by ENOMIC (https://sketchfab.com/ENOMIC) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

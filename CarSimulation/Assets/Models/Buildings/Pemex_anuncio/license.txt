@@ -1,0 +1,11 @@
+Model Information:
+* title:	Pemex anuncio
+* source:	https://sketchfab.com/3d-models/pemex-anuncio-eca381f3d9dc45daa92b043ae2ae488f
+* author:	checomx (https://sketchfab.com/checomx)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Pemex anuncio" (https://sketchfab.com/3d-models/pemex-anuncio-eca381f3d9dc45daa92b043ae2ae488f) by checomx (https://sketchfab.com/checomx) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

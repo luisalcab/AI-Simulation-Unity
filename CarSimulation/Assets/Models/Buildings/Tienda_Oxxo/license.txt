@@ -1,0 +1,11 @@
+Model Information:
+* title:	Tienda Oxxo
+* source:	https://sketchfab.com/3d-models/tienda-oxxo-636c02e80d7f4ebea822808c002fe26b
+* author:	alecsvaldez (https://sketchfab.com/alexvzzz)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Tienda Oxxo" (https://sketchfab.com/3d-models/tienda-oxxo-636c02e80d7f4ebea822808c002fe26b) by alecsvaldez (https://sketchfab.com/alexvzzz) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

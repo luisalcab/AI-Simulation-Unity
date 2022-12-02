@@ -1,0 +1,11 @@
+Model Information:
+* title:	container construction site
+* source:	https://sketchfab.com/3d-models/container-construction-site-e4e3b7fdaba94868803cb4630cd3597b
+* author:	simple and extensive design (https://sketchfab.com/simpleandextensivedesign)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "container construction site" (https://sketchfab.com/3d-models/container-construction-site-e4e3b7fdaba94868803cb4630cd3597b) by simple and extensive design (https://sketchfab.com/simpleandextensivedesign) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

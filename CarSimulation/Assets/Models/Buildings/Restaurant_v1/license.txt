@@ -1,0 +1,11 @@
+Model Information:
+* title:	Restaurant v1
+* source:	https://sketchfab.com/3d-models/restaurant-v1-3f53f654902547738264b5acc82d4c9c
+* author:	checomx (https://sketchfab.com/checomx)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Restaurant v1" (https://sketchfab.com/3d-models/restaurant-v1-3f53f654902547738264b5acc82d4c9c) by checomx (https://sketchfab.com/checomx) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

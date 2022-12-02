@@ -1,0 +1,11 @@
+Model Information:
+* title:	Gasolinera Pemex
+* source:	https://sketchfab.com/3d-models/gasolinera-pemex-5cec67ae844f4d569aa02d7462f7a93e
+* author:	checomx (https://sketchfab.com/checomx)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Gasolinera Pemex" (https://sketchfab.com/3d-models/gasolinera-pemex-5cec67ae844f4d569aa02d7462f7a93e) by checomx (https://sketchfab.com/checomx) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

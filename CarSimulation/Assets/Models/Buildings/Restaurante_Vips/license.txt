@@ -1,0 +1,11 @@
+Model Information:
+* title:	Restaurante Vips
+* source:	https://sketchfab.com/3d-models/restaurante-vips-41fff799077d463289f72d258031f162
+* author:	alecsvaldez (https://sketchfab.com/alexvzzz)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Restaurante Vips" (https://sketchfab.com/3d-models/restaurante-vips-41fff799077d463289f72d258031f162) by alecsvaldez (https://sketchfab.com/alexvzzz) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

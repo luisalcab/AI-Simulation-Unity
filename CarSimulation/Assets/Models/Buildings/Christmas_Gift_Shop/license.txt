@@ -1,0 +1,11 @@
+Model Information:
+* title:	Christmas Gift Shop
+* source:	https://sketchfab.com/3d-models/christmas-gift-shop-093475fc5e954918a64bccaa8652109f
+* author:	3d.xyz (https://sketchfab.com/webuild)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Christmas Gift Shop" (https://sketchfab.com/3d-models/christmas-gift-shop-093475fc5e954918a64bccaa8652109f) by 3d.xyz (https://sketchfab.com/webuild) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
