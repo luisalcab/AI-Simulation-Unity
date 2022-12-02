@@ -13,7 +13,7 @@
 4. Open the project in Unity again
 5. Open the scene `Assets/Scenes/Simulation.unity`
 6. Run the scene in Unity
-- The default number of cars is 50
+- _(The default number of cars is 50)_
 
 ### Assets used
 
