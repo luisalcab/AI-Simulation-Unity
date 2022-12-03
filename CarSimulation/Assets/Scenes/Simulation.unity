@@ -7583,7 +7583,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _carritoOriginal: {fileID: 85987252668934696, guid: 9718a3f172785704c90d7ac7ab298920, type: 3}
-  _tamanioPool: 80
+  _tamanioPool: 50
 --- !u!1001 &376168022
 PrefabInstance:
   m_ObjectHideFlags: 0

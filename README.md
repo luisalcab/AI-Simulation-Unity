@@ -16,7 +16,7 @@
 4. Open the project in Unity again
 5. Open the scene `Assets/Scenes/Simulation.unity`
 6. Run the scene in Unity
-- _(The default number of cars is 80)_
+- _(The default number of cars is 50)_
 
 ### Assets used
 
@@ -61,3 +61,5 @@
 - This work is based on "Tienda Elektra y Banco Azteca" (https://sketchfab.com/3d-models/tienda-elektra-y-banco-azteca-712d07b8b96846c8964dc3f31a8c5fa2) by alecsvaldez (https://sketchfab.com/alexvzzz) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
 
 - This work is based on "Tienda Oxxo" (https://sketchfab.com/3d-models/tienda-oxxo-636c02e80d7f4ebea822808c002fe26b) by alecsvaldez (https://sketchfab.com/alexvzzz) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+
+- This work is based on "Pirámide Maya 3D" (https://sketchfab.com/3d-models/piramide-maya-3d-850f3439316d4cde9861d97fbff807aa) by CG BANG! (https://sketchfab.com/CGbang) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
