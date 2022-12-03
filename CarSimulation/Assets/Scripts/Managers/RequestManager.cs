@@ -30,7 +30,6 @@ public class RequestManager : MonoBehaviour
     IEnumerator Request() {
         UnityWebRequest www = UnityWebRequest.Get(_url + "/" + CarPoolManager.Instance._tamanioPool + "&[0,1,2,3]");
 
-        // Este asunto es asíncrono
         yield return www.SendWebRequest();
 
         ListaCarro listaCarro = new ListaCarro();
