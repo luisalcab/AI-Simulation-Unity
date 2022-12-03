@@ -8,6 +8,7 @@ using Debug = UnityEngine.Debug;
 using UnityEngine.Events;
 using System;
 using SimpleJSON;
+using JSONNode = SimpleJSON.JSONNode;
 
 [Serializable]
 public class RequestPositions : UnityEvent<ListaCarro> {}
