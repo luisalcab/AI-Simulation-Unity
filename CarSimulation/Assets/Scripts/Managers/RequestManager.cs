@@ -21,7 +21,7 @@ public class RequestManager : MonoBehaviour
     private IEnumerator _enumeratorCorrutina;
     private Coroutine _corrutina;
     [SerializeField]
-    private string _url = "https://server-traffic.herokuapp.com";
+    private string _url = "http://localhost:5000";
 
     void Start(){
         _enumeratorCorrutina = Request(); 
