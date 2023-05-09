@@ -15,7 +15,8 @@
 3. Close unity
 4. Open the project in Unity again
 5. Open the scene `Assets/Scenes/Simulation.unity`
-6. Run the scene in Unity
+6. Run server: https://github.com/luisalcab/multiagent
+7. Run the scene in Unity
 - _(The default number of cars is 50)_
 
 ### Assets used
