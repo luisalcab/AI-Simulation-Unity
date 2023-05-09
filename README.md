@@ -21,6 +21,7 @@
 
 ### Simulation Running
 
+![youtube-video-gif](https://github.com/luisalcab/AI-Simulation-Unity/assets/79459748/d6b04535-0858-49e1-b9d1-635170bdc5c5)
 
 
 ### Assets used
